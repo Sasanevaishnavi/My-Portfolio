@@ -1,0 +1,19 @@
+[
+  
+    {
+      "title": "Image Sharing Platform",
+      "imageSrc": "projects/project.png",
+      "description": "Built an Image Sharing Platform where users can register, upload images, and interact with posts through likes and comments. Users can also delete comments and images.",
+      "skills": ["Flask", "SQL", "JavaScript"],
+      "demo": "https://instavibes.com",
+      "source": "https://github.com/Sasanevaishnavi/Image-Sharing-Platform-"
+    },
+    {
+      "title": "Cafe Website",
+      "imageSrc": "projects/project.png",
+      "description": "The platform allows users to explore caf´es based on their selected city, add new caf´ es, and delete existing ones, enhancinguser interaction and engagement.",
+       "skills": ["Flask", "SQL", "REST APIs"],
+      "source": "https://github.com/Sasanevaishnavi/Cafe-website"
+    }
+  
+]
